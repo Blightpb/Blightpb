@@ -1,6 +1,7 @@
 ## ヾ(^▽^*))) 
 
-![image](https://github.com/Blightpb/Blightpb/assets/159180376/e74fb8ef-cee9-4833-82f8-0ba5dcfd3d10)
+![image](https://github.com/Blightpb/Blightpb/assets/159180376/7d1ad3c4-be61-48f6-b072-18946f30b085)
+
 
 
 
