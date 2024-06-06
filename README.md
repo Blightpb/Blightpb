@@ -1,6 +1,6 @@
-ılılılllıılılıllllıılılllılllllılllllılllllıll
+ılılılllıılılıllllıılılllılllllılllllılllllı
 
-ㅤㅤ0:24 ─●──────────── -2:56
+ㅤㅤㅤㅤ0:24 ─●──────────── -2:56
 
 ㅤㅤㅤ↻      ◁ II ▷     ↺
 
