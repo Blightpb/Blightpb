@@ -1,8 +1,8 @@
-ılılılllıılılıllllıılılllıll
-  
- 0:24 ─●─────────── -2:56
-  
-  ↻      ◁ II ▷     ↺
+ılılılllıılılıllllıılılllılllllılllllılllllıll
+
+ㅤㅤ0:24 ─●──────────── -2:56
+
+ㅤㅤㅤ↻      ◁ II ▷     ↺
 
 
 
