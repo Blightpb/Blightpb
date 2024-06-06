@@ -1,7 +1,6 @@
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:｡･:*:･ﾟ★,｡･:*:･｡
 
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://github.com/Blightpb/Blightpb/assets/159180376/3698a0bc-a872-49ac-8695-f21fecf10706)
-
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://github.com/Blightpb/Blightpb/assets/159180376/7e18b459-37b9-44a3-8638-e7e67114d441)
 
 
 
