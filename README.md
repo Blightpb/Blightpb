@@ -2,9 +2,9 @@
 
 ılılılllıılılıllllıılılllılllllılllllıllıllıılllılllılılılıllllıı
 
-0:24 ─●──────────── -2:56
+ 0:24 ─●──────────── -2:56
 
-ㅤㅤㅤㅤ↻      ◁ II ▷     ↺
+ㅤㅤㅤㅤ  ↻      ◁ II ▷     ↺
 
 
 
