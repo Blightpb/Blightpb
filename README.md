@@ -20,8 +20,6 @@
 </p>
 
 <p align="right">
-<img src="https://views.whatilearened.today/views/github/vedilson/vedilson.svg"> <a href="https://github.com/vedilson/"><img src="https://img.shields.io/github/followers/vedilson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
 
 
 
