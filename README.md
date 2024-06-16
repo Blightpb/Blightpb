@@ -10,5 +10,10 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤㅤㅤㅤ   ㅤㅤ ↻      ◁ II ▷     ↺
 
 
+![](https://cdn.kastatic.org/ka-perseus-images/68b9519290c9300c69d2bfe745e0a2a26027804e.png)
+
+ 
+
+
 
 
