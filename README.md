@@ -1,6 +1,6 @@
 <p align="center">
 <table width="100%">
-<tr><td valign="top" width="50%">
+<tr><td valign="top" width="100%">
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ°❀⋆.* ⋅ ୨୧ ‧₊˚⋅ ⋆°✿°⋆ ⋅˚₊‧ ୨୧ ⋅ *.⋆❀°
