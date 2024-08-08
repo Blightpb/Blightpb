@@ -14,8 +14,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤㅤㅤㅤ   ㅤㅤ ↻      ◁ II ▷     ↺
 
 <div align="center"> 
-  <img src="https://media.tenor.com/SWOvT6N7GhcAAAAM/fishing-fail-failarmy.gif" alt="Gif de pesca em alto-mar">
-</div>
+  <img src="https://media.tenor.com/SWOvT6N7GhcAAAAM/fishing-fail-failarmy.gif" 
 
 
 
