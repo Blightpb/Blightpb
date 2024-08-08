@@ -1,3 +1,7 @@
+<p align="right">
+<table width="100%">
+<tr><td valign="top" width="50%">
+
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ°❀⋆.* ⋅ ୨୧ ‧₊˚⋅ ⋆°✿°⋆ ⋅˚₊‧ ୨୧ ⋅ *.⋆❀°
   
@@ -8,9 +12,10 @@
  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤㅤ0:24 ─●──────────── -2:56
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤㅤㅤㅤ   ㅤㅤ ↻      ◁ II ▷     ↺
-<p align="right">
-<table width="100%">
-<tr><td valign="top" width="50%">
+
+<div align="center"> 
+  <img src="https://media.tenor.com/SWOvT6N7GhcAAAAM/fishing-fail-failarmy.gif" alt="Gif de pesca em alto-mar">
+</div>
 
 
 
