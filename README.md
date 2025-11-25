@@ -18,7 +18,7 @@
 - Estudando frameworks modernos e boas práticas de acessibilidade.
 
 ## 📫 Como me encontrar
-- GitHub: `@Blightpb` • Portifólio: `https://blgithpb.github.io`
+- GitHub: `@Blightpb` • Portifólio: `https://blightpb.github.io`
 
 
 
