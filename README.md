@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou Rafaela 👋</h1>
+<h1 align="center">Olá, eu sou a Rafaela🤗  </h1>
 
 <p align="center">
   Desenvolvedora web • Front-end & UI/UX • Criadora de projetos acessíveis
@@ -13,11 +13,11 @@
 
 ---
 
-## 🔭 Atualmente
+## 📅 Atualmente
 - Construindo interfaces responsivas com HTML, CSS e JavaScript.
 - Estudando frameworks modernos e boas práticas de acessibilidade.
 
-## 📫 Como me encontrar
+## 📍 Como me encontrar
 - GitHub: `@Blightpb` • Portifólio: `https://blightpb.github.io`
 
 
