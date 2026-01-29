@@ -16,6 +16,7 @@
 ## 📅 Atualmente
 - Construindo interfaces responsivas com HTML, CSS e JavaScript.
 - Estudando frameworks modernos e boas práticas de acessibilidade.
+- Cursando 1º semestre de ADS. 
 
 ## 📍 Como me encontrar
 - GitHub: `@Blightpb` • Portifólio: `https://blightpb.github.io`
